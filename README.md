@@ -1,5 +1,5 @@
 # Recruit-A-Friend
-This module adds five new in-game commands that allows players to recruit each other.
+This script adds five new in-game commands that allows players to recruit each other.
 
 While logged in, use **.recruit help** to get some information on how to use the feature.
 
