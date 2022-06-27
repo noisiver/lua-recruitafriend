@@ -8,6 +8,6 @@ The amount of days that a referral will stay active, the amount of days since th
 The possible, and configurable, rewards are the Swift Zhevra, the X-53 Touring Rocket and the Celestial Steed.
 
 # Requirements
-This is a script that requires [Eluna](https://github.com/azerothcore/mod-eluna) to be actived for [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk).
+This is a script that requires [Eluna](https://github.com/azerothcore/mod-eluna) to be installed for [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk).
 
 The file `RecruitAFriend.lua` has to be placed in the `lua_scripts` folder found in the same location as the worldserver executable.
